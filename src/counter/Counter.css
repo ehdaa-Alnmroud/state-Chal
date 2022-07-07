@@ -1,0 +1,19 @@
+.counter{
+    
+    background-color: #EBF1F1;
+    border-radius: 6px;
+    height: 300px;
+    width: 800px;
+    margin-top: 50px;
+    padding: 80px;
+}
+span{
+    color: #2A4D75;
+    margin: 0 50px;
+    margin-bottom: 30px;
+}
+.res{
+    margin-left: 12px;
+    margin-top: 50px;
+
+}
